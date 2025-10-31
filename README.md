@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00c4ff&height=220&section=header&text=Farhad%20Nuri&fontSize=60&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Farhad%20Nuri&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <h2 align="center"> Competitive Programmer | Data Analyst | Backend Developer | Cloud Engineering Enthusiast</h2>
@@ -143,5 +143,5 @@ Developing algorithmic systems, insightful data visualizations (R & Tableau), an
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c4ff,100:1e90ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
