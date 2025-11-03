@@ -115,10 +115,10 @@ Developing algorithmic systems, insightful data visualizations (R & Tableau), an
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **🔍 Flash Lookup Dictionary** | Full-stack dictionary app (C++ backend + JS frontend) with 151K+ words, instant lookups, and intelligent spell correction. | C++ · HTML · CSS · JavaScript | [🔗 View Project](https://github.com/nuri6312/Flash-Lookup) |
-| **💸 BrokeMate** | Expense and group budget manager with Firebase authentication, analytics dashboard, and smart notifications. | React Native · Firebase · Expo SDK | [🔗 View Project](https://github.com/nuri6312/BrokeMate) |
-| **🧩 MiniDB – SQL Engine** | Command-line database engine supporting CREATE, INSERT, SELECT, and UPDATE queries with hash-based indexing. | C++ · Data Structures · CLI | [🔗 View Project](https://github.com/nuri6312/MiniDB) |
-| **🖥 ShellSim** | A simulated Unix-like shell environment supporting directory navigation, file operations, and recursive search. | C++ · File System · CLI | [🔗 View Project](https://github.com/nuri6312/ShellSim) |
+| **🔍 Flash Lookup Dictionary** | Full-stack dictionary app (C++ backend + JS frontend) with 151K+ words, instant lookups, and intelligent spell correction. | C++ · HTML · CSS · JavaScript | [🔗 View Project](https://github.com/FarhadNuri/Flash-Lookup) |
+| **💸 BrokeMate** | Expense and group budget manager with Firebase authentication, analytics dashboard, and smart notifications. | React Native · Firebase · Expo SDK | [🔗 View Project](https://github.com/FarhadNuri/BrokeMate) |
+| **🧩 MiniDB – SQL Engine** | Command-line database engine supporting CREATE, INSERT, SELECT, and UPDATE queries with hash-based indexing. | C++ · Data Structures · CLI | [🔗 View Project](https://github.com/FarhadNuri/MiniDB) |
+| **🖥 ShellSim** | A simulated Unix-like shell environment supporting directory navigation, file operations, and recursive search. | C++ · File System · CLI | [🔗 View Project](https://github.com/FarhadNuri/ShellSim) |
 
 
 ---
@@ -126,12 +126,12 @@ Developing algorithmic systems, insightful data visualizations (R & Tableau), an
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuri6312&show_icons=true&theme=tokyonight&hide_border=true&title_color=1e90ff&icon_color=1e90ff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuri6312&layout=compact&theme=tokyonight&hide_border=true&title_color=1e90ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhadNuri&show_icons=true&theme=tokyonight&hide_border=true&title_color=1e90ff&icon_color=1e90ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhadNuri&layout=compact&theme=tokyonight&hide_border=true&title_color=1e90ff" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuri6312&theme=tokyonight&hide_border=true&ring=1e90ff&currStreakLabel=1e90ff" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhadNuri&theme=tokyonight&hide_border=true&ring=1e90ff&currStreakLabel=1e90ff" height="170"/>
 </p>
 
 ---
