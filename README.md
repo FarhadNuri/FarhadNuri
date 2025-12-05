@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=220&section=header&text=Farhad%20Nuri&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<h2 align="center"> Competitive Programmer | Data Analyst | Backend Developer | DATA Engineering Enthusiast</h2>
+<h2 align="center"> Competitive Programmer | Data Analyst | Backend Developer | Data Engineering Enthusiast</h2>
 
 
 <p align="center">
-Developing algorithmic systems, data analysis with Python and SQL, and robust backend solutions with Node.js & Express.
+Developing algorithmic systems, data analysis with Python and SQL, and backend solutions with Node.js & Express.
 </p>
 
 ---
