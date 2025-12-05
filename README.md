@@ -2,22 +2,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=220&section=header&text=Farhad%20Nuri&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<h2 align="center"> Competitive Programmer | Data Analyst | Backend Developer | Cloud Engineering Enthusiast</h2>
+<h2 align="center"> Competitive Programmer | Data Analyst | Backend Developer | DATA Engineering Enthusiast</h2>
 
 
 <p align="center">
-Developing algorithmic systems, insightful data visualizations (R & Tableau), and robust backend solutions with Node.js & Express.
+Developing algorithmic systems, data analysis with Python and SQL, and robust backend solutions with Node.js & Express.
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 **Computer Science Student** — *East Delta University*  
-- 📈 Specialized in **Data Analysis** & **Backend Development**  
-- 💻 Skilled in **C++**, **JavaScript**, **Node.js**, **Express**, **MongoDB**, **SQL**, **R**  
-- 🔍 Experienced in **backend system design**, **data analysis**, **visualization**, and **database management**  
-- 🏆 Currently pursuing **Google Advanced Data Analytics** & **IBM Full Stack Software Development** Certifications
-- 📧 Reach me at: **farhadnuri559@gmail.com**
+
+![Student](https://img.shields.io/badge/_Student-1a1a1a?style=for-the-badge) &nbsp;&nbsp;&nbsp;![Computer Science Student](https://img.shields.io/badge/Computer_Science_Student-gray?style=for-the-badge) ![East Delta University](https://img.shields.io/badge/🏛️_East_Delta_University-EDU-blue?style=for-the-badge)
+
+![Specialized In](https://img.shields.io/badge/_Specialized_In-1a1a1a?style=for-the-badge)&nbsp;&nbsp;&nbsp; ![Data Analysis](https://img.shields.io/badge/📊_Data_Analysis-Expert-green?style=for-the-badge) ![Backend Development](https://img.shields.io/badge/⚙️_Backend_Development-Node.js-brightgreen?style=for-the-badge)
+
+![Skilled In](https://img.shields.io/badge/_Skilled_In-1a1a1a?style=for-the-badge) &nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C++-Language-blue?style=for-the-badge&logo=c%2B%2B) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript) ![Node.js](https://img.shields.io/badge/Node.js-Runtime-green?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/Express.js-Framework-black?style=for-the-badge&logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen?style=for-the-badge&logo=mongodb) ![SQL](https://img.shields.io/badge/SQL-Database-lightgray?style=for-the-badge&logo=mysql) ![R](https://img.shields.io/badge/R-Data_Science-blue?style=for-the-badge&logo=r)
+
+![Certifications](https://img.shields.io/badge/_Certifications-1a1a1a?style=for-the-badge)&nbsp;&nbsp;&nbsp; ![Google Advanced Data Analytics](https://img.shields.io/badge/Google_Advanced_Data_Analytics-In_Progress-orange?style=for-the-badge&logo=google) ![IBM Full Stack Developer](https://img.shields.io/badge/IBM_Full_Stack_Developer-In_Progress-blue?style=for-the-badge&logo=ibm)
+
 
 ---
 
