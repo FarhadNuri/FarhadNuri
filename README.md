@@ -23,42 +23,47 @@
 <img src="https://img.shields.io/github/followers/DeepDN?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
 
 </div>
-<div align="left">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **About Me** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
-</div>
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="420" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-
-```yaml
-👨‍💻 Developer Info:
-  name: "Farhad Hossain Nuri"
-  location: "Chattogram, Bangladesh"
-  education: "BSc in CSE, East Delta University"
-  passing_year: "2026"
-  
-🎯 Expertise:
-  frontend: ["React JS", "Next JS", "Tailwind"]
-  backend: ["Node JS", "Express JS", "Jenkins", "Terraform"]
-  databases: ["MongoDB", "PostGresql"]
-  testing: ["Manual Testing", "Postman", "API Testing"]
-``
-  
-🌱 Currently Learning:
-  - "Advanced Kubernetes Orchestration"
-  - "Terraform Cloud Automation"
-  - "Service Mesh Architecture"
-  - "GitOps Workflows"
-  
-💡 Fun Facts:
-  - "I think I am funny 😄"
-  - "Coffee-driven developer ☕"
-  - "Open source contributor 🚀"
-  - "Tech blogger & mentor 📝"
+```javascript
+const farhad_nuri = {
+  name:         "Farhad Hossain Nuri",
+  location:     "Chattogram, Bangladesh",
+  role:         "SQA Engineer, Front-End Developer",
+  education:    "BS Computer Science @ East Delta University (2023–2026)",
+  training:     "Road To SDET - SQA", "Meta React Specialization", "Coursera Backend with NodeJs and Express",
+  currentFocus: "Software Testing, Full Stack Solutions",
+  funFact:      "I enjoy problem solving and current PUPIL on Codeforces",
+  openTo:       "Internships, Projects and Full Time Roles"
+};
 ```
 
-<br clear="right"/>
+---
 
+## 📊 Github Analytics
+
+<div align="center">
+
+<p align="center">
+<a href="https://github.com/FarhadNuri">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarhadNuri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FarhadNuri&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+</a>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarhadNuri&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+</p>
 
 </div>
+
+---
+<!-- Activity Graph -->
+
+## 📈 **Contribution Activity**
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhadNuri&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF&area=true&hide_border=true&theme=react-dark&hide_title=true"/>
+</div>
+
