@@ -31,18 +31,118 @@
 const farhad_nuri = {
   name:         "Farhad Hossain Nuri",
   location:     "Chattogram, Bangladesh",
-  role:         "SQA Engineer, Front-End Developer",
+  role:         "SQA Engineer, Full Stack Developer",
   education:    "BS Computer Science @ East Delta University (2023–2026)",
   training:     "Road To SDET - SQA", "Meta React Specialization", "Coursera Backend with NodeJs and Express",
   currentFocus: "Software Testing, Full Stack Solutions",
-  funFact:      "I enjoy problem solving and current PUPIL on Codeforces",
+  funFact:      "I enjoy solving problems and currently Pupil on Codeforces",
   openTo:       "Internships, Projects and Full Time Roles"
 };
 ```
 
 ---
 
-## 📊 Github Analytics
+## 🌐 Connect With Me
+
+<br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/FarhadNuri)
+[![Facebook](https://img.shields.io/badge/Facebook-0a1628?style=for-the-badge&logo=facebook&logoColor=67e8f9)](https://www.facebook.com/farhad.hosen.7)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0a1628?style=for-the-badge&logo=codeforces&logoColor=67e8f9)](https://codeforces.com/profile/63_FarhadNuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=67e8f9)](https://www.linkedin.com/in/farhad-nuri-ba99a62a5/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a1628?style=for-the-badge&logo=leetcode&logoColor=67e8f9)](https://leetcode.com/u/DBxWoN5xgS/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge&logo=netlify&logoColor=67e8f9)](https://xyz.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=67e8f9)](mailto:farhadnuri559@gmail.com)
+
+</div>
+
+---
+
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=js" height="50" /><br>JavaScript
+      </td>
+        <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=ts" height="50" /><br>TypeScript
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=mongodb" height="50" /><br>MongoDB
+      </td>
+     <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=mysql" height="50" /><br>MySQL
+      </td>
+          <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=react" height="50" /><br>React
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="50" /><br>Node.js
+      </td>
+      <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=nextjs" height="50" /><br>Next.js
+      </td>
+                <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=express" height="50" /><br>Express
+      </td>
+                  <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" height="50" /><br>Tailwind
+      </td>
+
+    </tr>
+  </table>
+
+
+ <table align="center">
+    <tr>
+      
+<td align="center" width="80">
+  <img src="https://skillicons.dev/icons?i=java"  height="50" /><br>Java
+</td>
+<td align="center" width="80">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  height="50" /><br>Postman
+</td>
+                        <td align="center" width="80">
+        <img src="https://skillicons.dev/icons?i=selenium" height="50" /><br>Selenium
+      </td>
+<td align="center" width="80">
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="50" /><br>Playwright
+</td>
+
+<td align="center" width="80">
+  <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="50" /><br>JMeter
+</td>
+<td align="center" width="80">
+  <img src="https://skillicons.dev/icons?i=jenkins" height="50" /><br>Jenkins
+</td>
+<td align="center" width="80">
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4"  height="50" /><br>REST Assured
+</td>
+
+
+<td align="center" width="80">
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"  height="50" /><br>Jira
+</td>
+
+
+<td align="center" width="80">
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png"  height="50" /><br>JUnit
+</td>
+
+</tr>
+</table>
+  
+</p>
+
+
+---
+
+## 🌌 Github Analytics
 
 <div align="center">
 
@@ -54,7 +154,7 @@ const farhad_nuri = {
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarhadNuri&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarhadNuri&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
 </p>
 
 </div>
@@ -62,8 +162,14 @@ const farhad_nuri = {
 ---
 <!-- Activity Graph -->
 
-## 📈 **Contribution Activity**
+## 📈 Contribution Activity
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhadNuri&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF&area=true&hide_border=true&theme=react-dark&hide_title=true"/>
 </div>
 
+---
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d6b,40:001824,100:000000&height=180&section=footer&fontSize=13&fontColor=0e7490&fontAlignY=65&animation=twinkling"/>
+</div>
