@@ -93,7 +93,6 @@ const farhad_nuri = {
                   <td align="center" width="80">
         <img src="https://skillicons.dev/icons?i=tailwindcss" height="50" /><br>Tailwind
       </td>
-
     </tr>
   </table>
 
