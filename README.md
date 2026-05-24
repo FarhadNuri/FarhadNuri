@@ -1,7 +1,7 @@
 <div >
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,70:001824,100:004d6b&height=250&section=header&text=Farhad%20Nuri&fontSize=70&fontColor=ffffff&fontAlignY=45&stroke=00d4e8&strokeWidth=2&desc=Software%20Quality%20Assurance%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=70&descColor=67e8f9&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,70:001824,100:004d6b&height=250&section=header&text=Farhad%20Nuri&fontSize=70&fontColor=ffffff&fontAlignY=45&stroke=00d4e8&strokeWidth=2&desc=Software%20Quality%20Assurance%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20System%20Architecture&descSize=18&descAlignY=70&descColor=67e8f9&animation=twinkling" />
 
 
 <a href="https://git.io/typing-svg">
@@ -49,11 +49,11 @@ const farhad_nuri = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=67e8f9)](https://github.com/FarhadNuri)
-[![Facebook](https://img.shields.io/badge/Facebook-0a1628?style=for-the-badge&logo=facebook&logoColor=67e8f9)](https://www.facebook.com/farhad.hosen.7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge&logo=netlify&logoColor=67e8f9)](https://farhadnuri.vercel.app/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-0a1628?style=for-the-badge&logo=codeforces&logoColor=67e8f9)](https://codeforces.com/profile/63_FarhadNuri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=67e8f9)](https://www.linkedin.com/in/farhad-nuri-ba99a62a5/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0a1628?style=for-the-badge&logo=leetcode&logoColor=67e8f9)](https://leetcode.com/u/DBxWoN5xgS/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a1628?style=for-the-badge&logo=netlify&logoColor=67e8f9)](https://xyz.onrender.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-0a1628?style=for-the-badge&logo=facebook&logoColor=67e8f9)](https://www.facebook.com/farhad.hosen.7)
 [![Email](https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=67e8f9)](mailto:farhadnuri559@gmail.com)
 
 </div>
