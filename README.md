@@ -1,11 +1,11 @@
 <div >
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,70:001824,100:004d6b&height=250&section=header&text=Farhad%20Nuri&fontSize=70&fontColor=ffffff&fontAlignY=45&stroke=00d4e8&strokeWidth=2&desc=Software%20Quality%20Assurance%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20System%20Architecture&descSize=18&descAlignY=70&descColor=67e8f9&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,70:001824,100:004d6b&height=250&section=header&text=Farhad%20Nuri&fontSize=70&fontColor=ffffff&fontAlignY=45&stroke=00d4e8&strokeWidth=2&desc=Full%20Stack%20Developer%20%C2%B7%20Software%20Quality%20Assurance%20%C2%B7%20System%20Architecture&descSize=18&descAlignY=70&descColor=67e8f9&animation=twinkling" />
 
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Finding+Bugs+Before+Users+Do;Automating+Tests+for+Reliable+Software;Building+Full+Stack+Solutions;Solving+Problems+with+Code+%26+Logic;Turning+Ideas+into+Scalable+Applications;Debugging%2C+Testing%2C+Building+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Full+Stack+Solutions;Turning+Ideas+into+Scalable+Applications;Finding+Bugs+Before+Users+Do;Automating+Tests+for+Reliable+Software;Solving+Problems+with+Code+%26+Logic;Debugging%2C+Testing%2C+Building+Every+Day" alt="Typing SVG" />
 </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -31,10 +31,10 @@
 const farhad_nuri = {
   name:         "Farhad Hossain Nuri",
   location:     "Chattogram, Bangladesh",
-  role:         "SQA Engineer, Full Stack Developer",
-  education:    "BS Computer Science @ East Delta University (2023–2026)",
-  training:     "Road To SDET - SQA", "Meta React Specialization", "Coursera Backend with NodeJs and Express",
-  currentFocus: "Software Testing, Full Stack Solutions",
+  role:         "Full Stack Developer, SQA Engineer",
+  education:    "BSc Computer Science @ East Delta University (2023–2026)",
+  training:     "Meta React Specialization", "Coursera Backend with NodeJs and Express","Road To SDET - SQA",
+  currentFocus: "Full Stack Solutions, Software Testing",
   funFact:      "I enjoy solving problems and currently Pupil on Codeforces",
   openTo:       "Internships, Projects and Full Time Roles"
 };
@@ -101,7 +101,14 @@ const farhad_nuri = {
     <tr>
       
 <td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=java"  height="50" /><br>Java
+  <img src="https://skillicons.dev/icons?i=redis"  height="50" /><br>Redis
+</td>
+<td align="center" width="80">
+  <img src="https://skillicons.dev/icons?i=git"  height="50" /><br>Git
+</td>
+<td align="center" width="80">
+  <img src="https://cdn.brandfetch.io/id3EdyVgAJ/w/180/h/180/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" height="50" alt="NeonDB" />
+  <br>NeonDB
 </td>
 <td align="center" width="80">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  height="50" /><br>Postman
@@ -116,22 +123,16 @@ const farhad_nuri = {
 <td align="center" width="80">
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="50" /><br>JMeter
 </td>
-<td align="center" width="80">
-  <img src="https://skillicons.dev/icons?i=jenkins" height="50" /><br>Jenkins
-</td>
-<td align="center" width="80">
-  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4"  height="50" /><br>REST Assured
-</td>
 
 
+<td align="center" width="80">
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" /><br>Vercel
+</td>
 <td align="center" width="80">
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"  height="50" /><br>Jira
 </td>
 
 
-<td align="center" width="80">
-  <img src="https://junit.org/junit5/assets/img/junit5-logo.png"  height="50" /><br>JUnit
-</td>
 
 </tr>
 </table>
