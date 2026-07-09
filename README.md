@@ -142,6 +142,18 @@ const farhad_nuri = {
 
 ---
 
+## SQA Projects
+
+| 🛒 **[Alibaba Manual Testing](https://github.com/FarhadNuri/Alibaba-Manual-Testing)** | 💳 **[Dmoney Manual Testing](https://github.com/FarhadNuri/DMoney_Manual_and_API_Testing)** | ⚙️ **[Dmoney API Testing](https://github.com/FarhadNuri/DMoney_Manual_and_API_Testing)** |
+|---|---|---|
+| A professional-grade manual testing project for the **Alibaba E-commerce Platform**, covering user registration, login, and product search with comprehensive test suites. <br><br> ![Manual Testing](https://img.shields.io/badge/Manual_Testing-4CAF50?style=flat-square) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) | A professional-grade manual testing project for the **Dmoney REST API**, validating financial transaction operations like deposits, transfers, and withdrawals. <br><br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) | A professional-grade automated API testing project for the **Dmoney REST API**, featuring 104 API requests, 208 assertions, and detailed HTML reporting. <br><br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/Newman-02B875?style=flat-square&logo=nodedotjs&logoColor=white) |
+
+| 🚀 **[Dmoney Performance Testing](https://github.com/FarhadNuri/Dmoney-Performance-Testing)** |
+|---|
+| An end-to-end API Chaining and Performance Testing framework using **Apache JMeter** to simulate realistic financial operations under load with concurrent users. <br><br> ![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) |
+
+---
+
 ## 🌌 Github Analytics
 
 <div align="center">
